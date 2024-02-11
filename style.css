@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading {
+  background-color: red;
+  color: yellow;
+  text-align: center;
+}
+
+.lasagna {
+  font-size: 20px;
+}
+
+.lasagnaBody {
+  background-color: aquamarine;
+}
